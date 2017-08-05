@@ -1,1 +1,1 @@
-# Sudoku-Puzzle
+# Udacity Artificial Intelligence Projects
